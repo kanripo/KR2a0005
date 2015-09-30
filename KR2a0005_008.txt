@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 讀史記十表
-#+DATE: 2015-09-23 09:41:25
-#+PROPERTY: JUAN 8
+#+DATE: 2015-08-24 22:19:30.604962
+#+PROPERTY: ID KR2a0005
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷八
 <pb:KR2a0005_WYG_008-1a>¶
 欽定四庫全書¶
 　讀史記十表卷八¶
@@ -387,4 +389,3 @@
 　敦爰氏矦便樂成陽矦劉徳周子南君延年陽都矦¶
 <pb:KR2a0005_WYG_008-41a>¶
 　張彭祖孝孫既云修記何又缺而弗備也¶
-

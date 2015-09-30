@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 讀史記十表
-#+DATE: 2015-09-23 09:41:25
-#+PROPERTY: JUAN 5
+#+DATE: 2015-08-24 22:19:30.558818
+#+PROPERTY: ID KR2a0005
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五
 <pb:KR2a0005_WYG_005-1a>¶
 欽定四庫全書¶
 　讀史記十表卷五¶
@@ -247,4 +249,3 @@
 　世嗣立之年俱與表不符賀為思王子安世弟則同¶
 　索𨼆曰賀廣川惠王子此悞也蓋以廣川惠王孫戴¶
 　文王訛耳¶
-

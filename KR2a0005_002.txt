@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 讀史記十表
-#+DATE: 2015-09-23 09:41:25
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 22:19:30.495849
+#+PROPERTY: ID KR2a0005
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二
 <pb:KR2a0005_WYG_002-1a>¶
 欽定四庫全書¶
 　讀史記十表卷二¶
@@ -354,4 +356,3 @@
 　表中有撮叙一二語多簡而未明疑有脫誤如齊表¶
 　彗星見晏子曰田氏有徳于齊可畏宋表熒惑守心¶
 　子韋曰善鄭表子産曰三國不㑹之類¶
-

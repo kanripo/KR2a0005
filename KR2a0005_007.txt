@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 讀史記十表
-#+DATE: 2015-09-23 09:41:25
-#+PROPERTY: JUAN 7
+#+DATE: 2015-08-24 22:19:30.592087
+#+PROPERTY: ID KR2a0005
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七
 <pb:KR2a0005_WYG_007-1a>¶
 欽定四庫全書¶
 　讀史記十表卷七¶
@@ -150,4 +152,3 @@
 　孝景矦者三十一人其中休矦紅矦實一人並書誤¶
 　也班表但一書為是又武安矦田蚡周陽矦田勝乃¶
 　孝武即位始封班入武表是¶
-

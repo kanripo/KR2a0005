@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 讀史記十表
-#+DATE: 2015-09-23 09:41:25
-#+PROPERTY: JUAN 9
+#+DATE: 2015-08-24 22:19:30.627042
+#+PROPERTY: ID KR2a0005
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷九
 <pb:KR2a0005_WYG_009-1a>¶
 欽定四庫全書¶
 　讀史記十表卷九¶
@@ -193,4 +195,3 @@
 　參錯故失其一當從漢書為是漢表别載不得封年¶
 　十人史表無之又征和元年封四人二年封一人此¶
 　在史表後也¶
-

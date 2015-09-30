@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 讀史記十表
-#+DATE: 2015-09-23 09:41:25
-#+PROPERTY: JUAN 10
+#+DATE: 2015-08-24 22:19:30.645277
+#+PROPERTY: ID KR2a0005
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十
 <pb:KR2a0005_WYG_010-1a>¶
 欽定四庫全書¶
 　讀史記十表卷十¶
@@ -382,4 +384,3 @@
 　　六事槩之陋矣因為比事參觀發明篇末其意義¶
 　　顯爍衆見者不費辭也若褚孝孫所續太始以後¶
 　　觕舉數事事多缺㫖亦無取故不論¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 讀史記十表
-#+DATE: 2015-09-23 09:41:25
-#+PROPERTY: JUAN 0
+#+DATE: 2015-08-24 22:19:30.460121
+#+PROPERTY: ID KR2a0005
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 提要
 <pb:KR2a0005_WYG_000-1a>¶
 欽定四庫全書　　　　　史部一¶
 　讀史記十表　　　　　　正史類¶
@@ -31,6 +33,7 @@
 　　　　　　　總纂官(臣/)紀昀(臣/)陸錫熊(臣/)孫士毅¶
 <pb:KR2a0005_WYG_000-2b>¶
 　　　　　　　總　校　官　(臣/)　陸　費　墀¶
+#+PROPERTY: JUAN 總論
 <pb:KR2a0005_WYG_000-3a>¶
 欽定四庫全書¶
 　讀史記十表總論¶
@@ -105,4 +108,3 @@
 　至所不言尤寓褒譏未易測識後人欲穿鑿立論復¶
 <pb:KR2a0005_WYG_000-7a>¶
 　所未安誠㑹本紀世家列傳窮厥事理當自得之也¶
-
